@@ -1,4 +1,4 @@
-# Optimization 
+# Optimization
 Optimization problems are ubiquitous in statistics and machine learning. A huge number of problems that we consider in these disciplines can indeed be posed as optimization tasks.
 
 Studying the details is important for two  major  reasons:  
