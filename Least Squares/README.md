@@ -13,6 +13,6 @@
     - Then, solve $A X^{*} = P$ instead of $AX = b$<br><br>
 
 - This can be formulaize as :
-    - $\sum_{i=1}^{m} (a_{i}^Tx - b_{i})$, also known as the $L_{2}$-norm squared $||Ax−b||_{2}$<br><br>
+    - $\sum_{i=1}^{m}(a_{i}^Tx - b_{i})$, also known as the $L_{2}$-norm squared $||Ax−b||_{2}$<br><br>
 - So the problem now is:
     - minimize $||Ax−b||_{2}^2$
