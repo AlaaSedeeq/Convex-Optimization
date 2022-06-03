@@ -15,4 +15,4 @@
 - This can be formulaize as :
     - $\sum_{i=1}^{m} (a_{i}^Tx - b_{i})$, also known as the $L_{2}$-norm squared $||Ax−b||_{2}$<br><br>
 - So the problem now is:
-    - minimize $\quad$$||Ax−b||_{2}^2$
+    - minimize $||Ax−b||_{2}^2$
