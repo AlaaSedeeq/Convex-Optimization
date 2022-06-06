@@ -12,8 +12,8 @@ Half of the Machine Learning field is the construction of the learning method **
   - Closed form solution ==> Least Mean squares
   - Numerically and guaranteed ==> Conex optimization & Linear Programming
   - Numerically but not guaranteed ==> Non-Convex, and can be solved using many techniques:
-    - Numerical algorithms like Gradient descent
-    - Local optimization
-    - Heuristic swarm-based methods
-    - Brute force exhaustive search
+    - Numerical algorithms like Gradient descent.
+    - Local optimization.
+    - Heuristic swarm-based methods.
+    - Brute force exhaustive search.
   
